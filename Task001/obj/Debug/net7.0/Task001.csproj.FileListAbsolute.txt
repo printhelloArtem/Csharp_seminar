@@ -1,0 +1,14 @@
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\bin\Debug\net7.0\Task001.exe
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\bin\Debug\net7.0\Task001.deps.json
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\bin\Debug\net7.0\Task001.runtimeconfig.json
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\bin\Debug\net7.0\Task001.dll
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\bin\Debug\net7.0\Task001.pdb
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.AssemblyInfoInputs.cache
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.AssemblyInfo.cs
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.dll
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\refint\Task001.dll
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.pdb
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\Task001.genruntimeconfig.cache
+C:\Users\art20\Documents\Семинар 1 ДЗ\Tasks\Task001\obj\Debug\net7.0\ref\Task001.dll
