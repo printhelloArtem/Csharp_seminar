@@ -20,3 +20,4 @@ Console.WriteLine(score03 + " Максимальное число");
     else
     Console.WriteLine(score03 + " Максимальное число");
 }
+// complied
